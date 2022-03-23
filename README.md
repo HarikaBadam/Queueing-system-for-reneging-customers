@@ -1,3 +1,3 @@
 # Queueing-system-for-reneging-customers
 
-Design and implement a M/M/1/n queueing system that handles reneging customers and analyzes the system.
+A matlab script to analyse and study a M/M/1/n queueing system that handles reneging customers.
